@@ -4,7 +4,7 @@ A portable embedded health monitor built on **Raspberry Pi Pico W (ARM Cortex-M0
 for real-time vitals monitoring — designed for rural and low-resource healthcare settings.
 
 ## 📊 Live Output
-![OLED Demo](demo.jpg)
+![OLED Demo](demo.jpeg)
 
 ## ✅ Features
 - Real-time **BPM detection** using MAX30102 (I2C)
